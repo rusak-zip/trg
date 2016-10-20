@@ -1,7 +1,7 @@
 # [RD1] - Basic e-commerce web site
 
-Target Release: 1.0
-Epic: ep1
+**Target Release:** 1.0
+**Epic:** [EP1]
 
 ## Background
 
@@ -61,7 +61,11 @@ As a user I should be able to review my basket: see what I have there, remove it
 ## Questions
 
 Payment?
+
 Delivery?
+
 ssl certificate?
+
 user reviews?
+
 user login?
